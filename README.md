@@ -39,7 +39,7 @@ yarn web
 ```
 Esto abrirá el proyecto en tu navegador predeterminado.
 
-![alt text](image.png)
+![Conversando con el bot](image-1.png)
 
 ### Levantar en modo app (Android/iOS)
 1. Asegúrate de tener un emulador o dispositivo físico conectado.
