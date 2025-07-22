@@ -49,8 +49,15 @@ Esto abrirá el proyecto en tu navegador predeterminado.
    # o para iOS
    yarn ios
    ```
-<video controls src="ScreenRecording_07-21-2025 01-31-48_1.MP4" title="" width="600" height="450"></video>
+
+#### ¡Habla con el guia, para aprender!
+<video controls src="https://github.com/user-attachments/assets/d4f3ab97-3743-4403-946d-f23793ed9b86" title="¡Habla con el guia, para aprender!" width="" height=""></video>
+
+#### Modifica el tema
+<video controls src="https://github.com/user-attachments/assets/ecea9799-1ed4-4fc4-96a2-9fb289676a66" title="Modifica el tema" width="" height=""></video>
+
 ### Levantar en modo desarrollo (Expo Go)
+
 ```sh
 npx expo start -c
 ```
